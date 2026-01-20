@@ -21,3 +21,4 @@ public class string {
         sc.close();
     }
 }
+
