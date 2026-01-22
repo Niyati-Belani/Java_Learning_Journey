@@ -1,4 +1,4 @@
-class demo
+class HelloWorld
 {
     public static void main(String[] args)
     {
@@ -6,3 +6,4 @@ class demo
     }
 
 }
+
