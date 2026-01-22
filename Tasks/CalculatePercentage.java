@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Task_1 {
+public class CalculatePercentage {
     public static void main(String[] args) {
 
         System.out.println("Taking Marks From the User For Given Subject...");
@@ -29,3 +29,4 @@ public class Task_1 {
         sc.close();
     }
 }
+
