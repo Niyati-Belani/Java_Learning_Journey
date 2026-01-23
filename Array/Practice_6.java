@@ -1,4 +1,4 @@
-public class PS_6 
+public class Practice_6 
 {
     public static void main(String[] args) 
     {
@@ -117,3 +117,4 @@ public class PS_6
         }
     }
 }
+
