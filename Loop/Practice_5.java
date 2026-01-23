@@ -1,4 +1,4 @@
-public class PS_5 
+public class Practice_5 
 {
     public static void main(String[] args) 
     {
@@ -65,3 +65,4 @@ public class PS_5
         System.out.println(sum1);
     }
 }
+
