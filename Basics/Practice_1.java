@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PS_1 {
+public class Practice_1 {
     public static void main(String[] args) {
         // Question1
         int a= 12;
@@ -31,3 +31,4 @@ public class PS_1 {
 
     }
 }
+
