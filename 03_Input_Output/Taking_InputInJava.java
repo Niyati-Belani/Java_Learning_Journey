@@ -18,3 +18,4 @@ public class Taking_InputInJava {
         sc.close();
     }
 }
+
