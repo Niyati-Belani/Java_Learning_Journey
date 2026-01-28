@@ -27,7 +27,6 @@ public class Logical
         {
             System.out.println("No!");
         }
-
         // For Logical NOT(!)...
         System.out.println("For Logical NOT(!)...");
         System.out.print("Not (a) is : ");
@@ -36,3 +35,4 @@ public class Logical
         System.out.println(!b);
     }
 }
+
