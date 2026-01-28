@@ -16,7 +16,6 @@ class Employee
         name = n;
     }
 }
-
 class CellPhone
 {
     public void ring()
@@ -32,7 +31,6 @@ class CellPhone
         System.out.println("Calling Friend....");
     }
 }
-
 class Square
 {
     int side;
@@ -46,7 +44,6 @@ class Square
         return 4*side;
     }
 }
-
 class TommyVecceti
 {
     public void hit()
@@ -99,3 +96,4 @@ public class PS_8
         tom.run();
     }
 }
+
