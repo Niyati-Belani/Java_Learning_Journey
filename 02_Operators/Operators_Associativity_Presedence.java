@@ -9,8 +9,10 @@
 */
 
 
-public class Operators_Associativity_Presedence {
-    public static void main(String[] args) {
+public class Operators_Associativity_Presedence 
+{
+    public static void main(String[] args) 
+    {
         int a=12;
         int b=04;
         
@@ -90,3 +92,4 @@ public class Operators_Associativity_Presedence {
 
 
 */
+
