@@ -1,5 +1,7 @@
-public class Data_Type_Incre_Decre {
-    public static void main(String[] args) {
+public class Data_Type_Incre_Decre 
+{
+    public static void main(String[] args) 
+    {
 
         // Data type Expressions
 
@@ -34,3 +36,4 @@ public class Data_Type_Incre_Decre {
         
     }
 }
+
