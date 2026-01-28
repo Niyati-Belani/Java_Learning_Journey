@@ -43,3 +43,4 @@ public class ClassesAndObjects
         System.out.println(salary);
     }
 }
+
